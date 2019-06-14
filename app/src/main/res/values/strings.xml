@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wipro Custom Dialogs</string>
+    <string name="button_alert">Alert</string>
+    <string name="button_date_picker">Date Picker</string>
+    <string name="button_time_picker">Time Picker</string>
+    <string name="text_view_date_picker">Selected Date</string>
+    <string name="text_view_time_picker">Selected Time</string>
+</resources>
